@@ -3,6 +3,8 @@
 A **beautiful ocean-themed scientific calculator** built using **HTML, CSS, and JavaScript**.  
 This project combines functionality with a calm **ocean and beach inspired UI**, featuring smooth design, scientific operations, and responsive layout.
 
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/65561f91-47e1-4b4e-a9ab-ef265a884e25" />
+
 🔗 **Live Demo**  
 https://oceany-calculator.vercel.app/
 
@@ -121,12 +123,6 @@ The goal was to make a **functional scientific calculator with calming ocean vib
 
 ---
 
-# 📸 Screenshot
-
-<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/65561f91-47e1-4b4e-a9ab-ef265a884e25" />
-
-
----
 
 # 💡 Future Improvements
 
