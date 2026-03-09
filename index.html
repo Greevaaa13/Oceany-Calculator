@@ -1,45 +1,99 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Oceany</title>
-    </head>
+<head>
+<title>Oceany Calculator</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
 
 <body>
-    <h2>Calculate with oceany vibes!</h2>
-    <input id="display" placeholder="Enter expression">
- <br><br>
 
-<button onclick="inputNumber('7')">7</button>
-<button onclick="inputNumber('8')">8</button>
-<button onclick="inputNumber('9')">9</button>
-<button onclick="inputOperator('/')">/</button>
+<div class="scene">
+  
+  <!-- Animated ocean background -->
+  <div class="ocean-background">
+    <div class="wave wave-1"></div>
+    <div class="wave wave-2"></div>
+    <div class="wave wave-3"></div>
+  </div>
 
-<br><br>
+  <!-- Floating bubbles -->
+  <div class="bubbles-container">
+    <div class="bubble bubble-1"></div>
+    <div class="bubble bubble-2"></div>
+    <div class="bubble bubble-3"></div>
+    <div class="bubble bubble-4"></div>
+    <div class="bubble bubble-5"></div>
+    <div class="bubble bubble-6"></div>
+    <div class="bubble bubble-7"></div>
+    <div class="bubble bubble-8"></div>
+  </div>
 
-<button onclick="inputNumber('4')">4</button>
-<button onclick="inputNumber('5')">5</button>
-<button onclick="inputNumber('6')">6</button>
-<button onclick="inputOperator('*')">*</button>
+  <!-- Decorative shells and starfish -->
+  <div class="shell shell-1">🐚</div>
+  <div class="shell shell-2">🐚</div>
+  <div class="starfish starfish-1">⭐</div>
+  <div class="starfish starfish-2">⭐</div>
 
-<br><br>
+  <!-- Calculator container -->
+  <div class="container">
+    <h2 class="title">Calculate With Oceany</h2>
+    
+    <input id="display" class="display" placeholder="0">
+    
+    <div class="calculator">
+      <button>Deg</button>
+      <button>Inv</button>
+      <button>Clr</button>
+      <button>(</button>
+      <button>)</button>
+      <button>⌫</button>
+      <button>÷</button>
 
-<button onclick="inputNumber('1')">1</button>
-<button onclick="inputNumber('2')">2</button>
-<button onclick="inputNumber('3')">3</button>
-<button onclick="inputOperator('-')">-</button>
+      <button>ln</button>
+      <button>sin</button>
+      <button>%</button>
+      <button>7</button>
+      <button>8</button>
+      <button>9</button>
+      <button>x</button>
 
-<br><br>
+      <button>log</button>
+      <button>cos</button>
+      <button>x!</button>
+      <button>4</button>
+      <button>5</button>
+      <button>6</button>
+      <button>-</button>
 
-<button onclick="inputNumber('0')">0</button>
-<button onclick="inputOperator('.')">.</button>
-<button onclick="calculate()">=</button>
-<button onclick="inputOperator('+')">+</button>
+      <button>π</button>
+      <button>tan</button>
+      <button>xʸ</button>
+      <button>1</button>
+      <button>2</button>
+      <button>3</button>
+      <button>+</button>
 
-<br><br>
+      <button>e</button>
+      <button>√</button>
+      <button>x²</button>
+      <button>0</button>
+      <button>.</button>
+      <button>exp</button>
+      <button class="equal">=</button>
+    </div>
+  </div>
 
-<button onclick="clearDisplay()">Clear</button>
+  <!-- Sand shoreline -->
+  <div class="sand-container">
+    <div class="sand sand-wave-1"></div>
+    <div class="sand sand-wave-2"></div>
+    <div class="sand sand-wave-3"></div>
+  </div>
+
+</div>
 
 <script src="script.js"></script>
-    
+
 </body>
 </html>
