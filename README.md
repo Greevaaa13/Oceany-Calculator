@@ -1,4 +1,3 @@
-# Oceany-Calculator
 # 🌊 Oceany Calculator
 
 A **beautiful ocean-themed scientific calculator** built using **HTML, CSS, and JavaScript**.  
@@ -25,24 +24,24 @@ https://oceany-calculator.vercel.app/
 # 🧮 Supported Operations
 
 Basic Operations
-×
-÷
+×,
+÷,
 %
 
 
 Scientific Functions
 
-sin
-cos
-tan
-log
-ln
-√
-x²
-xʸ
-π
-e
-exp
+sin,
+cos,
+tan,
+log,
+ln,
+√,
+x²,
+xʸ,
+π,
+e,
+exp,
 factorial
 
 
@@ -66,8 +65,11 @@ Git & GitHub
 oceany-calculator
 │
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 
@@ -78,7 +80,7 @@ oceany-calculator
 Clone the repository
 
 
-git clone https://github.com/YOUR_USERNAME/oceany-calculator.git
+git clone https://github.com/Greevaaa13/oceany-calculator.git
 
 
 Open the project folder
@@ -122,7 +124,8 @@ The goal was to make a **functional scientific calculator with calming ocean vib
 
 # 📸 Screenshot
 
-Add your screenshot here after uploading to GitHub.
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/65561f91-47e1-4b4e-a9ab-ef265a884e25" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/65561f91-47e1-4b4e-a9ab-ef265a884e25" />
 
 
 
@@ -141,9 +144,8 @@ Add your screenshot here after uploading to GitHub.
 # 👩‍💻 Author
 
 **Greeva**
-
 GitHub  
-https://github.com/YOUR_USERNAME
+https://github.com/Greevaaa13
 
 ---
 
