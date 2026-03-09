@@ -64,6 +64,7 @@ Git & GitHub
 
 oceany-calculator
 │
+
 ├── index.html
 
 ├── style.css
@@ -77,21 +78,19 @@ oceany-calculator
 
 # 🚀 How to Run Locally
 
-Clone the repository
+1. Clone the repository
 
 
-git clone https://github.com/Greevaaa13/oceany-calculator.git
+2. git clone https://github.com/Greevaaa13/oceany-calculator.git
 
 
-Open the project folder
+3. Open the project folder
 
 
-cd oceany-calculator
+4. cd oceany-calculator
 
 
-Run using Live Server or open directly
-
-
+5. Run using Live Server or open directly
 index.html
 
 
@@ -125,8 +124,6 @@ The goal was to make a **functional scientific calculator with calming ocean vib
 # 📸 Screenshot
 
 <img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/65561f91-47e1-4b4e-a9ab-ef265a884e25" />
-<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/65561f91-47e1-4b4e-a9ab-ef265a884e25" />
-
 
 
 ---
