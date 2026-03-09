@@ -1,1 +1,152 @@
 # Oceany-Calculator
+# 🌊 Oceany Calculator
+
+A **beautiful ocean-themed scientific calculator** built using **HTML, CSS, and JavaScript**.  
+This project combines functionality with a calm **ocean and beach inspired UI**, featuring smooth design, scientific operations, and responsive layout.
+
+🔗 **Live Demo**  
+https://oceany-calculator.vercel.app/
+
+---
+
+# ✨ Features
+
+• Scientific calculator functions  
+• Ocean-inspired UI design  
+• Glassmorphism calculator panel  
+• Responsive layout  
+• Keyboard-style calculator grid  
+• Mathematical functions (sin, cos, tan, log, √, x², factorial etc.)  
+• Interactive button effects  
+• Deployed on **Vercel**
+
+---
+
+# 🧮 Supported Operations
+
+Basic Operations
+×
+÷
+%
+
+
+Scientific Functions
+
+sin
+cos
+tan
+log
+ln
+√
+x²
+xʸ
+π
+e
+exp
+factorial
+
+
+---
+
+# 🛠️ Tech Stack
+
+
+HTML5
+CSS3
+JavaScript (Vanilla JS)
+Vercel (Deployment)
+Git & GitHub
+
+
+---
+
+# 📂 Project Structure
+
+
+oceany-calculator
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+
+---
+
+# 🚀 How to Run Locally
+
+Clone the repository
+
+
+git clone https://github.com/YOUR_USERNAME/oceany-calculator.git
+
+
+Open the project folder
+
+
+cd oceany-calculator
+
+
+Run using Live Server or open directly
+
+
+index.html
+
+
+---
+
+# 🌍 Deployment
+
+The project is deployed using **Vercel**.
+
+Live site
+
+
+https://oceany-calculator.vercel.app/
+
+
+---
+
+# 🎨 UI Concept
+
+The UI is inspired by:
+
+• Ocean colors  
+• Beach sand aesthetics  
+• Smooth calculator layout  
+• Clean modern interface
+
+The goal was to make a **functional scientific calculator with calming ocean vibes**.
+
+---
+
+# 📸 Screenshot
+
+Add your screenshot here after uploading to GitHub.
+
+
+
+---
+
+# 💡 Future Improvements
+
+• Animated ocean waves  
+• Bubble particle effects  
+• Keyboard input support  
+• Calculation history  
+• Dark / light theme switch
+
+---
+
+# 👩‍💻 Author
+
+**Greeva**
+
+GitHub  
+https://github.com/YOUR_USERNAME
+
+---
+
+# ⭐ If you like this project
+
+Give the repository a **star ⭐ on GitHub**.
